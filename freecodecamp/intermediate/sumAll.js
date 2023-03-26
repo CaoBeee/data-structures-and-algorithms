@@ -16,8 +16,6 @@ function sumAll(arr) {
 			sum += accumlator
 		}
 	} else if (arr[0] > arr[1]) {
-		accumlator = arr[0]
-		sum = arr[0]
 		for (let i = arr[1]; i < arr[0]; i++) {
 			accumlator--
 			sum += accumlator
