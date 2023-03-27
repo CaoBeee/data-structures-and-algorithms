@@ -19,7 +19,6 @@ function sumAll(arr) {
 		for (let i = arr[1]; i < arr[0]; i++) {
 			accumlator--
 			sum += accumlator
-			console.log(sum)
 		}
 	}
 	return sum
