@@ -1,3 +1,3 @@
 # data-structures-and-algorithms
 
-DSA Practice
+This repository contains solutions to coding problems.
